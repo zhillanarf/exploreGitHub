@@ -3,3 +3,4 @@ Resolusi tahun ini:
 Belajar Django
 Memperkuat Laravel
 Belajar Tableau
+Memperkuat Figma
