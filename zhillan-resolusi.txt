@@ -2,3 +2,4 @@ Resolusi tahun ini:
 
 Belajar Kotlin
 Belajar Django
+Memperkuat Laravel
